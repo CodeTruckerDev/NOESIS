@@ -17,6 +17,13 @@ Został w formie, w jakiej powstał – bez zmian i bez upiększania.
 - Hasło = wszystkie znaki w kolorze wyzwalającym + jeden token specjalny z pozycji zależnej od liczby triggerów
 - Pokazuje enigmatyczną, poetycką podpowiedź (losowaną z 5 fraz)
 
+## Przykładowe zrzuty ekranu
+
+![Zrzut ekranu](noesis_1.png)
+
+![Zrzut ekranu](noesis_2.png)
+
+
 ## Wymagania
 
 Python 3 (standardowa biblioteka + os, random, string)
@@ -26,3 +33,17 @@ Python 3 (standardowa biblioteka + os, random, string)
 ```bash
 python main.py
 ```
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file.
+
+**Attribution appreciated:** If you use this code, a link back to this repo
+would be awesome (but not required). It helps other developers find the original
+work and supports independent creators like me.
+
+---
+
+> "Nie jestem programistą z zawodu. Jestem nim z powołania."
